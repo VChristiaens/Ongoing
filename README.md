@@ -22,7 +22,10 @@ You may launch the following https://colab.research.google.com/ .
 
 A window similar to the one below (the language might of the page might be different) should be available. In the menu `GitHub`, you can simply copy-paste the link of the github of the lecture https://github.com/SPAT0002-1/Lectures_20XX-20YY (Change XX, YY with the years corresponding to the current academic year)
 
-![GooleCollab](Figures/GoogleColab.png)
+![GoogleCollab](Figures/GoogleColab.png)
+
+A youtube video explaining in more details how GoogleCollab works is available here:
+https://www.youtube.com/embed/inN8seMm7UI 
 
 For a detailed introduction to Version Control Systems:
 
